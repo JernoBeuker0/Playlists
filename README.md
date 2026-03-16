@@ -4,12 +4,12 @@ I will make an actual README at some point, trust.
 ---
 
 ## To Use:
-### Venv
+### Venv:
  - Make a venv using `requirements.txt`.
 
 <br />
 
-### Find the YouTube Playlist ID
+### Find the YouTube Playlist ID:
 - Go to the playlist you want to copy.
 - The URL should look something like: https://music.youtube.com/playlist?list=PL..
 - Copy from and INCLUDING "PL" until the end of the line.
@@ -24,7 +24,7 @@ Where NEW_PLAYLIST_NAME is (logically) the name of your new playlist. And YT_PLA
 
 <br />
 
-#### Optional arguments.
+#### Optional arguments:
 The run command can be extended with two optional arguments.
 - The first is `-d`. This allows you to add your own description to the new Spotify Playlist.
 - The second is `-p`. This prints all songs in the YouTube playlist to the terminal.
