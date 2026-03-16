@@ -14,6 +14,8 @@ I will make an actual README at some point, trust.
 - The URL should look something like: https://music.youtube.com/playlist?list=PL..
 - Copy from and INCLUDING "PL" until the end of the line.
 
+P.S. Make sure the playlist is either public or unlisted.
+
 <br />
 
 ### Run the following command:
