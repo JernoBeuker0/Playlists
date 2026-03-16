@@ -1,20 +1,28 @@
 # YouTube to Spotify Playlist Converter
-Trust, I will make an actual README at some point
+I will make an actual README at some point, trust.
+
+---
 
 ## To Use:
 ### Venv
  - Make a venv using `requirements.txt`.
 
+<br />
+
 ### Find the YouTube Playlist ID
 - Go to the playlist you want to copy.
 - The URL should look something like: https://music.youtube.com/playlist?list=PL..
-- Copy from and INCLUDING PL until the end of the line.
+- Copy from and INCLUDING "PL" until the end of the line.
+
+<br />
 
 ### Run the following command:
 ```bash
 python -m app YT_PLAYLIST_ID NEW_PLAYLIST_NAME
 ```
-Where NEW_PLAYLIST_NAME is (logically) the name of your new playlist.
+Where NEW_PLAYLIST_NAME is (logically) the name of your new playlist. And YT_PLAYLIST_ID is the playlist ID you copied from before.
+
+<br />
 
 #### Optional arguments.
 The run command can be extended with two optional arguments.
